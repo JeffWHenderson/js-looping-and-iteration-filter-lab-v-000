@@ -3,3 +3,7 @@ function findMatching(drivers, string){
       return i.toLowerCase() === string.toLowerCase()
     })
 }
+
+function fuzzyMatch() {
+  
+}
