@@ -10,3 +10,7 @@ function fuzzyMatch(drivers, string) {
     return i.slice(0, string.length) === string
   })
 }
+
+function matchName(drivers, name) {
+  return 
+}
